@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak80199
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning MLOPS using AWS
+- 🌱 I’m currently involved MLOPS - Taking Model from development to production  
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me :deepak.pandey80199@gmail.com
 
